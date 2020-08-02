@@ -1,0 +1,16 @@
+{
+  "name": "log4js-library",
+  "version": "1.0.0",
+  "description": "封装node中的log4js管理日志模块",
+  "main": "log4jsConfig/log4.js",
+  "keywords": [
+    "封装node中的log4js管理日志模块"
+  ],
+  "author": "tugenhua",
+  "license": "ISC",
+  "repository": "https://github.com/tugenhua0707/log4js-library",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "log4js": "^6.3.0"
+  }
+}
