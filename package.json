@@ -1,6 +1,6 @@
 {
   "name": "log4js-library",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "封装node中的log4js管理日志模块",
   "main": "log4jsConfig/log4.js",
   "keywords": [

@@ -2,7 +2,7 @@
 const path = require('path');
 
 // 日志根目录
-const baseLogPath = path.resolve(__dirname, '../logs');
+const baseLogPath = path.resolve(__dirname, '../../../logs');
 
 // 请求日志目录
 const reqPath = '/request';
